@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "The Vampire Diaries",
-    "descricao": "Vampiros e romance",
+    "descricao": "A trama foca em Elena Gilbert (Nina Dobrev), uma adolescente que se apaixona por Stefan Salvatore (Paul Wesley), um vampiro que vive em paz, mas cujo irmão impulsivo, Damon Salvatore (Ian Somerhalder), cria um triângulo amoroso e desperta perigos na cidade.",
     "imagem": "https://i.pinimg.com/736x/de/25/45/de2545d07a618f1dcaf2b13b4b5c3a5b.jpg"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 5,
     "nome": "Os Donos do Jogo",
-    "descricao": "Drama e poder",
+    "descricao": "Em Os Donos do Jogo, quatro famílias poderosas estão dispostas a tudo para assumir o controle do Jogo do Bicho no Rio de Janeiro, mas para isso eles precisarão lidar com a rivalidade entre os próprios parentes. Criada por Heitor Dhalia (DNA do Crime), a série de ficção mergulha nos bastidores geracionais dos jogos de azar, focando nas disputas de poder que movimentam a máfia do bicho no Rio de Janeiro. A trama acompanha quatro famílias — os Moraes, os Guerra, os Fernandez e os Saad — que disputam o controle territorial, econômico e moral à custo de muitos segredos, sangue e dinheiro. A iminente legalização dos jogos de azar, o interesse de um grupo criminoso estrangeiro no Bicho e a rápida ascensão de um novo aspirante ao trono do crime carioca são os grandes motores da história.",
     "imagem": "https://i.pinimg.com/736x/56/8a/78/568a78e93c249e9cc4222f14cf37b27c.jpg"
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": 7,
     "nome": "Outer Banks",
-    "descricao": "Aventura e mistério",
+    "descricao": "Em uma cidade dividida por trilhos, um grupo de adolescentes mora do lado mais humilde. No entanto, ao encontrarem um mapa do tesouro, eles decidem perseguir esse segredo que está há muito tempo enterrado nas redondezas.",
     "imagem": "https://bancodeseries.tv.br/images/posters/18962.jpg"
   },
   {
@@ -62,7 +62,7 @@
   {
     "id": 11,
     "nome": "La Casa de Papel",
-    "descricao": "Assalto e suspense",
+    "descricao": "La Casa de Papel é uma série de suspense e ação onde um misterioso homem, O Professor, recruta oito ladrões habilidosos para realizar o maior assalto da história na Espanha.",
     "imagem": "https://i.pinimg.com/736x/83/2f/f1/832ff167e18e5d2a178af4cb8ff2afeb.jpg"
   },
   {
