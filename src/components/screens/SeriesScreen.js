@@ -10,7 +10,12 @@ export default function SeriesScreen({ navigation }) {
       <FlatList
         data={series}
         keyExtractor={(item) => item.id.toString()}
-        numColumns={2}
+        numColumns={3} // 🔥 3 COLUNAS
+        contentContainerStyle={{ paddingHorizontal: 10 }}
+        columnWrapperStyle={{
+          justifyContent: 'space-between',
+          marginBottom: 10,
+        }}
         renderItem={({ item }) => (
           <ItemCard
             item={item}
@@ -27,6 +32,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#121212',
   },
+
   title: {
     color: '#E50914',
     fontSize: 24,

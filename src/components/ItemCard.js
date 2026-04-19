@@ -1,29 +1,36 @@
-import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 
 export default function ItemCard({ item, onPress }) {
   return (
     <TouchableOpacity style={styles.card} onPress={onPress}>
-      <Image source={{ uri: item.imagem }} style={styles.image} />
-      <Text style={styles.title}>{item.nome}</Text>
+      <Image
+        source={{ uri: item.imagem }}
+        style={styles.image}
+        resizeMode="cover"
+      />
+      <Text style={styles.title} numberOfLines={1}>
+        {item.titulo}
+      </Text>
     </TouchableOpacity>
   );
 }
 
 const styles = StyleSheet.create({
   card: {
-    width: 160,
-    margin: 10,
+    width: '30%', // 🔥 3 POR LINHA (igual Netflix)
+    marginBottom: 15,
   },
+
   image: {
     width: '100%',
-    height: 220,
-    borderRadius: 12,
-    resizeMode: 'cover',
+    aspectRatio: 2 / 3, // 🔥 formato de filme
+    borderRadius: 8,
   },
+
   title: {
-    marginTop: 6,
     color: '#fff',
-    fontWeight: 'bold',
+    fontSize: 12,
+    marginTop: 5,
     textAlign: 'center',
   },
 });

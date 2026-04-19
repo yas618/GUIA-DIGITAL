@@ -2,61 +2,73 @@
   {
     "id": 1,
     "nome": "As Branquelas",
-    "descricao": "Comédia disfarçada",
+    "descricao": "Dois agentes do FBI se disfarçam de socialites brancas para proteger herdeiras ricas e acabam se envolvendo em situações hilárias enquanto tentam manter suas identidades em segredo.",
     "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/de/White_chicks.jpeg"
   },
   {
     "id": 2,
     "nome": "Como Eu Era Antes de Você",
-    "descricao": "Romance emocionante",
+    "descricao": "Uma jovem cuidadora cria uma conexão inesperada com um homem tetraplégico, transformando a vida de ambos com uma história emocionante de amor e escolhas.",
     "imagem": "https://irs.www.warnerbros.com.br/keyart-jpeg/movies/media/browser/Me_Before_You_Keyart.jpg"
   },
   {
     "id": 3,
     "nome": "A Culpa é das Estrelas",
-    "descricao": "Amor e superação",
+    "descricao": "Dois adolescentes com câncer se conhecem e vivem um romance intenso, enfrentando juntos os desafios da vida com sensibilidade e esperança.",
     "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/08/The_Fault_in_Our_Stars_%28filme%29.jpg"
   },
   {
     "id": 4,
     "nome": "Crepúsculo",
-    "descricao": "Vampiros e romance",
+    "descricao": "Uma garota comum se apaixona por um misterioso jovem que esconde um segredo sobrenatural, mergulhando em um mundo de vampiros e perigos.",
     "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/a-saga-crepusculo-eclipse/9a418f7a-7a34-4374-ade9-c6547b194da2.jpg"
   },
   {
     "id": 5,
     "nome": "Minions",
-    "descricao": "Diversão garantida",
+    "descricao": "Criaturas amarelas adoráveis saem em busca de um vilão para servir e acabam vivendo aventuras caóticas e divertidas pelo mundo",
     "imagem": "https://www.universalpics.com.br/tl_files/content/movies/despicable_me_4/posters/02.jpg"
   },
   {
     "id": 6,
     "nome": "Matilda",
-    "descricao": "Magia e inteligência",
+    "descricao": "Uma menina extremamente inteligente descobre que possui poderes especiais e enfrenta os desafios de uma família difícil e uma escola rígida.",
     "imagem": "https://i.pinimg.com/736x/0d/a9/39/0da93956f12d6a37a8172676401302dc.jpg"
   },
   {
     "id": 7,
     "nome": "Alvin e os Esquilos",
-    "descricao": "Música e comédia",
+    "descricao": "Três esquilos cantores conquistam o mundo da música enquanto causam confusões e aprendem sobre amizade e família.",
     "imagem": "https://media.themoviedb.org/t/p/w440_and_h660_face/o2WoeYJv9ISS9bw0kKD2cvmg9xN.jpg"
   },
   {
     "id": 8,
     "nome": "Fábrica de Chocolate",
-    "descricao": "Fantasia doce",
+    "descricao": "Um garoto ganha a chance de visitar uma misteriosa fábrica de chocolates e descobre um mundo mágico cheio de surpresas",
     "imagem": "https://i.pinimg.com/1200x/25/83/fd/2583fdb70eb7da2b9611f73da4c7aae7.jpg"
   },
   {
     "id": 9,
     "nome": "Pânico",
-    "descricao": "Terror clássico",
+    "descricao": "Um assassino mascarado aterroriza uma cidade, criando um jogo mortal baseado em filmes de terror.",
     "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaA4RYCZoQTcnNrN9iRFPDFc6VODLZM20Oew&s"
   },
   {
     "id": 10,
-    "nome": "Para Todos os Garotos que Já Amei",
+    "nome": "A vida de uma adolescente vira de cabeça para baixo quando suas cartas de amor secretas são enviadas para todos os seus antigos crushes.",
     "descricao": "Romance adolescente",
     "imagem": "https://i.pinimg.com/474x/76/6f/d8/766fd875d9301f288c31c8ece6dfa2e8.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Minha culpa",
+    "descricao": "Uma jovem se muda para uma nova cidade e acaba vivendo um romance intenso e proibido cheio de conflitos e emoções",
+    "imagem": "https://i.pinimg.com/736x/d2/45/47/d245476742bb80ffce0c64bb7975208a.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Quatro vidas de um cachorro",
+    "descricao": "Esta é a inesquecível história de um cão que, após renascer várias vezes, imagina que haja uma razão para seu retorno, um propósito a cumprir e que, enquanto não o alcançar, continuará renascendo.",
+    "imagem": "https://m.media-amazon.com/images/S/pv-target-images/7cfbdebd4548e1f2f5ae673209827fe6dbf12ca00607970537b71023efb61160.jpg"
   }
 ]
