@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nome": "The Vampire Diaries",
+    "descricao": "Vampiros e romance",
+    "imagem": "https://i.pinimg.com/736x/de/25/45/de2545d07a618f1dcaf2b13b4b5c3a5b.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Eu Nunca",
+    "descricao": "Comédia adolescente",
+    "imagem": "https://images.justwatch.com/poster/292935372/s166/never-have-i-ever.avif"
+  },
+  {
+    "id": 3,
+    "nome": "Com Carinho, Kitty",
+    "descricao": "Romance teen",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMTc0YmNmOTktMTc0Zi00NTRmLWJjYjEtNGExMzk5YTg5ZWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Vis a Vis",
+    "descricao": "Drama prisional",
+    "imagem": "https://m.media-amazon.com/images/M/MV5BMWU2ZWE4NTktMTM4Ni00OTVkLTk3ZDAtMTc2YjY1NmZmYTlkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Os Donos do Jogo",
+    "descricao": "Drama e poder",
+    "imagem": "https://www.papodecinema.com.br/wp-content/uploads/2025/10/20251031-os-donos-do-jogo-papo-de-cinem-cartaz-teaser.webp0"
+  },
+  {
+    "id": 6,
+    "nome": "Gossip Girl",
+    "descricao": "Drama jovem",
+    "imagem": "https://m.media-amazon.com/images/I/91I8ElmqRZL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Outer Banks",
+    "descricao": "Aventura e mistério",
+    "imagem": "https://bancodeseries.tv.br/images/posters/18962.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "O Verão que Mudou Minha Vida",
+    "descricao": "Romance e amizade",
+    "imagem": "https://media.themoviedb.org/t/p/w500/49AV6vqypkekwI5kjKTvBokB9n1.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "The Good Doctor",
+    "descricao": "Drama médico",
+    "imagem": "https://imusic.b-cdn.net/images/item/original/365/5060797570365.jpg?the-good-doctor-season-1-dvd&class=scaled&v=1603499832"
+  },
+  {
+    "id": 10,
+    "nome": "The Rookie",
+    "descricao": "Série policial",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlYzPx4EqI8t47PDbD5sncyjCIekt3zdzWA&s"
+  },
+  {
+    "id": 11,
+    "nome": "La Casa de Papel",
+    "descricao": "Assalto e suspense",
+    "imagem": "https://i.pinimg.com/736x/83/2f/f1/832ff167e18e5d2a178af4cb8ff2afeb.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Cobra Kai",
+    "descricao": "Luta e rivalidade",
+    "imagem": "https://chokis.com.br/wp-content/uploads/2022/08/AAAABZYejWiNo3SyogO8jFsK0_S9HPf9HG9Q4TtGuz7EyaTpyj11trGNxY63yaZctcGYRPrsTJ_doL3PeX48k1tl3eQLdW_kxSie-n6wK0EFmim-qTf2T2gwCwBDiFDOtT0_9exalQ.jpg"
+  }
+]
