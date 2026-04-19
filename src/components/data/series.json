@@ -32,7 +32,7 @@
   {
     "id": 6,
     "nome": "Gossip Girl",
-    "descricao": "Drama jovem",
+    "descricao": "acompanha a vida luxuosa e escandalosa de adolescentes privilegiados no Upper East Side de Nova York, narrada por uma blogueira anônima que expõe segredos através do site Gossip Girl",
     "imagem": "https://m.media-amazon.com/images/I/91I8ElmqRZL._AC_UF894,1000_QL80_.jpg"
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": 10,
     "nome": "The Rookie",
-    "descricao": "Série policial",
+    "descricao": "The Rookie é uma série policial baseada na história real de William Norcross, que, aos 44 anos, mudou-se da Pensilvânia para Los Angeles para se tornar o recruta mais velho do LAPD. A trama, estrelada por Nathan Fillion como John Nolan, mostra sua reinvenção profissional, enfrentando ceticismo, desafios físicos e a busca por um novo propósito após um divórcio e o fechamento de sua empresa",
     "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlYzPx4EqI8t47PDbD5sncyjCIekt3zdzWA&s"
   },
   {
@@ -68,7 +68,7 @@
   {
     "id": 12,
     "nome": "Cobra Kai",
-    "descricao": "Luta e rivalidade",
+    "descricao": "Cobra Kai é uma série de ação e drama da Netflix que continua a saga Karatê Kid 34 anos depois, focando na rivalidade renovada entre Johnny Lawrence e Daniel LaRusso. Johnny reabre o dojo Cobra Kai para ensinar caratê a jovens desajustados, enquanto Daniel tenta manter o legado do Sr. Miyagi. A série explora temas de redenção, bullying e o amadurecimento de uma nova geração de lutadores.",
     "imagem": "https://chokis.com.br/wp-content/uploads/2022/08/AAAABZYejWiNo3SyogO8jFsK0_S9HPf9HG9Q4TtGuz7EyaTpyj11trGNxY63yaZctcGYRPrsTJ_doL3PeX48k1tl3eQLdW_kxSie-n6wK0EFmim-qTf2T2gwCwBDiFDOtT0_9exalQ.jpg"
   }
 ]
