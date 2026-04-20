@@ -10,7 +10,7 @@ export default function MoviesScreen({ navigation }) {
       <FlatList
         data={filmes}
         keyExtractor={(item) => item.id.toString()}
-        numColumns={3} // 🔥 3 por linha (igual Netflix)
+        numColumns={3} 
         contentContainerStyle={{ paddingHorizontal: 10 }}
         columnWrapperStyle={{
           justifyContent: 'space-between',

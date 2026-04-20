@@ -6,7 +6,7 @@ export default function DetailsScreen({ route, navigation }) {
   return (
     <ScrollView style={styles.container}>
 
-      {/* IMAGEM SEM CORTAR */}
+      
       <View style={styles.imageContainer}>
         <Image
           source={{ uri: item.imagem }}
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   imageContainer: {
     width: '100%',
     height: 300,
-    backgroundColor: '#000', // fundo preto estilo Netflix
+    backgroundColor: '#000', 
     justifyContent: 'center',
     alignItems: 'center',
   },

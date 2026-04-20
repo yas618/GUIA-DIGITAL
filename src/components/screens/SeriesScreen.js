@@ -10,7 +10,7 @@ export default function SeriesScreen({ navigation }) {
       <FlatList
         data={series}
         keyExtractor={(item) => item.id.toString()}
-        numColumns={3} // 🔥 3 COLUNAS
+        numColumns={3} 
         contentContainerStyle={{ paddingHorizontal: 10 }}
         columnWrapperStyle={{
           justifyContent: 'space-between',
