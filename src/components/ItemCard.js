@@ -17,13 +17,13 @@ export default function ItemCard({ item, onPress }) {
 
 const styles = StyleSheet.create({
   card: {
-    width: '30%', // 🔥 3 POR LINHA (igual Netflix)
+    width: '30%', 
     marginBottom: 15,
   },
 
   image: {
     width: '100%',
-    aspectRatio: 2 / 3, // 🔥 formato de filme
+    aspectRatio: 2 / 3, 
     borderRadius: 8,
   },
 

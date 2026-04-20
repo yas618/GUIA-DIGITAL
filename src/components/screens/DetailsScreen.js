@@ -15,7 +15,7 @@ export default function DetailsScreen({ route, navigation }) {
         />
       </View>
 
-      {/* CONTEÚDO */}
+     
       <View style={styles.content}>
         <Text style={styles.title}>{item.nome}</Text>
 
@@ -23,12 +23,11 @@ export default function DetailsScreen({ route, navigation }) {
           {item.descricao}
         </Text>
 
-        {/* BOTÃO ASSISTIR */}
         <TouchableOpacity style={styles.playButton}>
           <Text style={styles.playText}>▶ Assistir</Text>
         </TouchableOpacity>
 
-        {/* BOTÃO VOLTAR */}
+    
         <TouchableOpacity
           style={styles.backButton}
           onPress={() => navigation.goBack()}
